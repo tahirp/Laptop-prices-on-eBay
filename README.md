@@ -1,4 +1,3 @@
-"""
 ## Project Overview: Used Laptop Price Prediction
 
 ### Introduction
@@ -83,4 +82,3 @@ An analysis of the Linear Regression model's coefficients revealed the most infl
 6.  **`Aspect_Ratio_8:5` (63.38)** and **`OS_Unknown` (59.24)** and **`OS_Windows 10` (55.45)**: These also contribute significantly to price prediction.
 
 **Key Insight**: Display characteristics (resolution, aspect ratio) and storage types are crucial. The high importance of 'Unknown' categories highlights that data completeness and quality are strong predictors, often correlating with lower-priced laptops due to lack of detail.
-"""
