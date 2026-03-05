@@ -26,7 +26,7 @@ To build a robust predictive model that accurately estimates the market price of
 - **Exclusions**: Refurbished/heavily damaged and brand-new laptops.
 
 ### Data Source
-The raw data was obtained from: [https://www.kaggle.com/datasets/elvinrustam/ebay-laptops-and-netbooks-sales?select=EbayPcLaptopsAndNetbooksUnclean.csv](https://www.kaggle.com/datasets/elvinrustam/ebay-laptops-and-netbooks-sales?select=EbayPcLaptopsAndNetbooksUnclean.csv)
+The raw data was obtained from: [Kaggle](https://www.kaggle.com/datasets/elvinrustam/ebay-laptops-and-netbooks-sales?select=EbayPcLaptopsAndNetbooksUnclean.csv)
 
 ### Data Cleaning & Preprocessing Steps
 
